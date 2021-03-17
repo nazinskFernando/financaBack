@@ -1,0 +1,306 @@
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\appsettings.Development.json
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\appsettings.json
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\application.exe
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\application.deps.json
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\application.runtimeconfig.json
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\application.runtimeconfig.dev.json
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\application.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ref\application.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\application.pdb
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\AutoMapper.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\EntityFramework.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Humanizer.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\MailKit.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\MimeKit.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\MySqlConnector.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Serilog.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.CodeDom.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\CrossCutting.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Data.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Domain.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Service.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Domain.pdb
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Service.pdb
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\CrossCutting.pdb
+C:\Programacao\Teste Ifood\Api\Api.Application\bin\Debug\net5.0\Data.pdb
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.csprojAssemblyReference.cache
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.AssemblyInfoInputs.cache
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.AssemblyInfo.cs
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.csproj.CoreCompileInputs.cache
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\staticwebassets\application.StaticWebAssets.Manifest.cache
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\staticwebassets\application.StaticWebAssets.xml
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\scopedcss\bundle\application.styles.css
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.RazorTargetAssemblyInfo.cache
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.csproj.CopyComplete
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\ref\application.dll
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.pdb
+C:\Programacao\Teste Ifood\Api\Api.Application\obj\Debug\net5.0\application.genruntimeconfig.cache
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.dll
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\ref\application.dll
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.pdb
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\appsettings.Development.json
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\appsettings.json
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\application.exe
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\application.deps.json
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\application.runtimeconfig.json
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\application.runtimeconfig.dev.json
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\application.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ref\application.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\application.pdb
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\AutoMapper.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\EntityFramework.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Humanizer.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\MailKit.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\MimeKit.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\MySqlConnector.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Serilog.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.CodeDom.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\CrossCutting.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Data.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Domain.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Service.dll
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Domain.pdb
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Service.pdb
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\CrossCutting.pdb
+C:\Programacao\Finança\Api\Api.Application\bin\Debug\net5.0\Data.pdb
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.csprojAssemblyReference.cache
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.AssemblyInfoInputs.cache
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.AssemblyInfo.cs
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.csproj.CoreCompileInputs.cache
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\staticwebassets\application.StaticWebAssets.Manifest.cache
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\staticwebassets\application.StaticWebAssets.xml
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\scopedcss\bundle\application.styles.css
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.RazorTargetAssemblyInfo.cache
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.csproj.CopyComplete
+C:\Programacao\Finança\Api\Api.Application\obj\Debug\net5.0\application.genruntimeconfig.cache
