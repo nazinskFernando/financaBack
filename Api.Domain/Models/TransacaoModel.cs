@@ -1,3 +1,4 @@
+using Api.Domain.Entities;
 namespace Api.Domain.Models
 {
     public class TransacaoModel
@@ -43,7 +44,27 @@ namespace Api.Domain.Models
             set { _isFixa = value; }
         }
 
+        private TipoOperacao _tipoOperacao;
+        public TipoOperacao TipoOperacao
+        {
+            get { return _tipoOperacao; }
+            set { _tipoOperacao = value; }
+        }
 
+        private TipoOperacaoSaida _tipoOperacaoSaida;
+        public TipoOperacaoSaida TipoOperacaoSaida
+        {
+            get { return _tipoOperacaoSaida; }
+            set { _tipoOperacaoSaida = value; }
+        }
+
+        private TipoOperacaoEntrada _tipoOperacaoEntrada;
+        public TipoOperacaoEntrada TipoOperacaoEntrada
+        {
+            get { return _tipoOperacaoEntrada; }
+            set { _tipoOperacaoEntrada = value; }
+        }
+        
 
     }
 }

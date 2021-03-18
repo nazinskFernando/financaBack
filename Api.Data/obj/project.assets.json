@@ -9102,11 +9102,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
+      "projectUniqueName": "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
+      "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-      "outputPath": "c:\\Programacao\\Finança\\Api\\Api.Data\\obj\\",
+      "outputPath": "C:\\Programacao\\Finança\\Api\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9126,8 +9126,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
-              "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
+            "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
             }
           }
         }

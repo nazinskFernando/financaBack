@@ -15,12 +15,8 @@ namespace Api.Data.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
-            modelBuilder.Entity<ProdutoEntity>(new ProdutoMap().Configure);
-             modelBuilder.Entity<EntradaEntity>(new EntradaMap().Configure);
-              modelBuilder.Entity<SaidaEntity>(new SaidaMap().Configure);
-               modelBuilder.Entity<MesReferenciaEntity>(new MesReferenciaMap().Configure);
-                modelBuilder.Entity<TransacaoEntity>(new TransacaoMap().Configure);
+            modelBuilder.Entity<MesReferenciaEntity>(new MesReferenciaMap().Configure);
+            modelBuilder.Entity<TransacaoEntity>(new TransacaoMap().Configure);
         }
 
     }

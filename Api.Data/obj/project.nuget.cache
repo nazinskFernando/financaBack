@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pEPC5SPekueDCmzLdpEcQ8yrxtBpTKKRhpBsdkrwWBgPyCg4bgfz2nox4lJpXoAdKF9lUH2EqRbA8LTpVbdOqw==",
+  "dgSpecHash": "ZoRnm1qbJH9lh70pPJLSHUa+qdW0/ohpmf0CjIB01LkozCF5AlZ3aMmiLBrm7o8pJqx2ZNDsN3C4++IxaPlVYA==",
   "success": true,
-  "projectFilePath": "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
+  "projectFilePath": "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fernando\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

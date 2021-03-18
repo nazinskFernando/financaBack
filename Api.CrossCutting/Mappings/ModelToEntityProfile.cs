@@ -8,21 +8,7 @@ namespace Api.CrossCutting.Mappings
     {
         public ModelToEntityProfile()
         {
-             #region Produto
-            CreateMap<ProdutoModel, ProdutoEntity>()
-              .ReverseMap();
-            #endregion  
-
-             #region Entrada
-            CreateMap<EntradaModel, EntradaEntity>()
-              .ReverseMap();
-            #endregion  
-
-             #region Saida
-            CreateMap<SaidaModel, SaidaEntity>()
-              .ReverseMap();
-            #endregion 
-
+           
              #region MesReferencia
             CreateMap<MesReferenciaModel, MesReferenciaEntity>()
               .ReverseMap();

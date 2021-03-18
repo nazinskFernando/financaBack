@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj": {}
+    "C:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj": {}
   },
   "projects": {
-    "c:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj": {
+    "C:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj",
+        "projectUniqueName": "C:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj",
         "projectName": "application",
-        "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj",
+        "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "c:\\Programacao\\Finança\\Api\\Api.Application\\obj\\",
+        "outputPath": "C:\\Programacao\\Finança\\Api\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,14 +31,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "c:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj"
+              "C:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "C:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
-                "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
+              "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
               },
-              "c:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj": {
-                "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj"
+              "C:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "c:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "c:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "C:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "c:\\Programacao\\Finança\\Api\\Api.CrossCutting\\obj\\",
+        "outputPath": "C:\\Programacao\\Finança\\Api\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -127,14 +127,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj": {
-                "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj"
+              "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj"
               },
-              "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
-                "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
+              "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
               },
-              "c:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj": {
-                "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj"
+              "C:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -177,14 +177,14 @@
         }
       }
     },
-    "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj": {
+    "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "c:\\Programacao\\Finança\\Api\\Api.Data\\obj\\",
+        "outputPath": "C:\\Programacao\\Finança\\Api\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -204,8 +204,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
-                "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
+              "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -268,14 +268,14 @@
         }
       }
     },
-    "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
+    "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\obj\\",
+        "outputPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -339,14 +339,14 @@
         }
       }
     },
-    "c:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj": {
+    "C:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj",
+        "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "c:\\Programacao\\Finança\\Api\\Api.Service\\obj\\",
+        "outputPath": "C:\\Programacao\\Finança\\Api\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -366,11 +366,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj": {
-                "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj"
+              "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj"
               },
-              "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
-                "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
+              "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
               }
             }
           }

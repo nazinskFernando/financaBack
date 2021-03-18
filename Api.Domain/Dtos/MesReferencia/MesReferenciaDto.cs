@@ -9,7 +9,5 @@ namespace Api.Domain.Dtos.MesReferencia
         public Guid Id { get; set; }
         public int Mes { get; set; }
         public int Ano { get; set; }
-
-        public IEnumerable<TransacaoEntity> Transacoes { get; set; }
     }
 }

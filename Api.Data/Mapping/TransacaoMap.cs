@@ -9,7 +9,7 @@ namespace Api.Data.Mapping
         public void Configure(EntityTypeBuilder<TransacaoEntity> builder)
         {
             builder.ToTable("Transacao");
-            builder.HasKey(u => u.Id);
+            builder.HasKey(t => t.Id);
         }
     }
 }
