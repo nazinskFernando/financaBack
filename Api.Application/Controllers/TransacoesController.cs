@@ -73,6 +73,39 @@ namespace Api.Application.Controllers
             }
         }
 
+        [HttpGet("{mesReferenciaId}/{tipoOperacao}")]
+        public async Task<ActionResult> GetAllTransacao(Guid mesReferenciaId, TipoOperacao tipoOperacao)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);  // 400 Bad Request - Solicitação Inválida
+            }
+            try
+            {
+                return Ok(await _service.GetAllTransacao(mesReferenciaId,tipoOperacao));
+            }
+            catch (ArgumentException e)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, e.Message);
+            }
+        }
+
+        [HttpGet("resumoMes/{mesReferenciaId}")]
+        public async Task<ActionResult> GetResumoMes(Guid mesReferenciaId)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);  // 400 Bad Request - Solicitação Inválida
+            }
+            try
+            {
+                return Ok(await _service.GetResumoMes(mesReferenciaId));
+            }
+            catch (ArgumentException e)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, e.Message);
+            }
+        }
 
         // [Authorize("Bearer")]
         [HttpPost]

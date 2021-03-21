@@ -3,14 +3,16 @@ using System;
 using Api.Data.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Data.Migrations
 {
     [DbContext(typeof(MyContext))]
-    partial class MyContextModelSnapshot : ModelSnapshot
+    [Migration("20210319124225_teste55")]
+    partial class teste55
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -52,16 +54,13 @@ namespace Data.Migrations
                     b.Property<string>("Descricao")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
-                    b.Property<Guid>("IsFixId")
-                        .HasColumnType("char(36)");
-
                     b.Property<bool>("IsFixa")
                         .HasColumnType("tinyint(1)");
 
                     b.Property<bool>("IsPago")
                         .HasColumnType("tinyint(1)");
 
-                    b.Property<Guid>("MesReferenciaId")
+                    b.Property<Guid?>("MesReferenciaId")
                         .HasColumnType("char(36)");
 
                     b.Property<string>("Nome")
@@ -96,9 +95,7 @@ namespace Data.Migrations
                 {
                     b.HasOne("Api.Domain.Entities.MesReferenciaEntity", "MesReferencia")
                         .WithMany("Transacoes")
-                        .HasForeignKey("MesReferenciaId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("MesReferenciaId");
                 });
 #pragma warning restore 612, 618
         }

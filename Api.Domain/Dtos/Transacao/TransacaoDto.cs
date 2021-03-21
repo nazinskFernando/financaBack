@@ -1,6 +1,5 @@
 using System;
 using Api.Domain.Entities;
-using Api.Domain.Dtos.MesReferencia;
 namespace Api.Domain.Dtos.Transacao
 {
     public class TransacaoDto
@@ -12,10 +11,11 @@ namespace Api.Domain.Dtos.Transacao
         public int Parcelas { get; set; }
         public bool IsPago { get; set; }
         public bool IsFixa { get; set; }
+        public Guid IsFixId { get; set; }
+        public Guid MesReferenciaId { get; set; }
 
         public TipoOperacaoEntrada TipoOperacaoEntrada { get; set; } 
         public TipoOperacaoSaida TipoOperacaoSaida { get; set; } 
         public TipoOperacao TipoOperacao { get; set; } 
-        public MesReferenciaDto MesReferencia { get; set; }
     }
 }

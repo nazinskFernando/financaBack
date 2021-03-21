@@ -9,7 +9,8 @@ namespace Api.Data.Mapping
         public void Configure(EntityTypeBuilder<MesReferenciaEntity> builder)
         {
             builder.ToTable("MesReferencia");
-            builder.HasKey(u => u.Id);
+            builder.HasKey(m => m.Id);
+            
         }
     }
 }

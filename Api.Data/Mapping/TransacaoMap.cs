@@ -10,6 +10,9 @@ namespace Api.Data.Mapping
         {
             builder.ToTable("Transacao");
             builder.HasKey(t => t.Id);
+
+            builder.HasOne(t => t.MesReferencia)
+                    .WithMany(m => m.Transacoes);
         }
     }
 }

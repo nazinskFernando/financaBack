@@ -18,5 +18,10 @@ namespace Api.Data.Implementations
             _dataset = context.Set<MesReferenciaEntity>();
         }
 
+       public async Task<MesReferenciaEntity> fintByMesAno(int mes, int ano){
+
+           return await _dataset.FirstOrDefaultAsync(mr => mr.Mes.Equals(mes) && mr.Ano.Equals(ano));
+       }
+
     }
 }

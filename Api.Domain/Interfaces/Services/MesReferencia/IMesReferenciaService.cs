@@ -8,6 +8,7 @@ namespace Api.Domain.Interfaces.Services.MesReferencia
     public interface IMesReferenciaService
     {
         Task<MesReferenciaDto> Get(Guid id);
+        Task<MesReferenciaDto> GetMesAno(int mes, int ano);
         Task<IEnumerable<MesReferenciaDto>> GetAll();
         Task<MesReferenciaDto> Post(MesReferenciaDto termo);
         Task<MesReferenciaDto> Put(MesReferenciaDto termo);

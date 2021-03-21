@@ -1,8 +1,16 @@
 using Api.Domain.Entities;
+using System;
 namespace Api.Domain.Models
 {
     public class TransacaoModel
     {
+        private Guid _id;
+        public Guid Id
+        {
+            get { return _id; }
+            set { _id = value; }
+        }
+        
         private string _nome;
         public string Nome
         {
@@ -43,6 +51,21 @@ namespace Api.Domain.Models
             get { return _isFixa; }
             set { _isFixa = value; }
         }
+        private Guid _isFixId;
+        public Guid IsFixId
+        {
+            get { return _isFixId; }
+            set { _isFixId = value; }
+        }
+        
+
+        private Guid _mesReferenciaId;
+        public Guid MesReferenciaId
+        {
+            get { return _mesReferenciaId; }
+            set { _mesReferenciaId = value; }
+        }
+        
 
         private TipoOperacao _tipoOperacao;
         public TipoOperacao TipoOperacao
