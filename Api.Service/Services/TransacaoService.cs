@@ -110,17 +110,15 @@ namespace Api.Service.Services
             var model = _mapper.Map<TransacaoModel>(transacao);
             var entity = _mapper.Map<TransacaoEntity>(model);  
 
-            var valor = await _repository.SelectAsync(entity.Id);
-            var isFixo = valor.IsFixa;
+            // var valor = await _repository.SelectAsync(entity.Id);
+            // var isFixo = valor.IsFixa;
             var result = await _repository.UpdateAsync(entity);
            
-           
-            //verificar se anteriormente ele era fixo, se foi fixo anteriormente deletar os posteriores senão so edita
-           if(isFixo && !entity.IsFixa){
-               await TransacaoFixaRemover(valor.IsFixId);
-           } else {
-               await TransacaoFixa(result, true);
-           }            
+        //    if(isFixo && !entity.IsFixa){
+        //        await TransacaoFixaRemover(valor.IsFixId);
+        //    } else {
+        //        await TransacaoFixa(result, true);
+        //    }            
             
             return _mapper.Map<TransacaoDto>(result);
         }
