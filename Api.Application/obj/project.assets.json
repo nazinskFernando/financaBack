@@ -10118,11 +10118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj",
+      "projectUniqueName": "c:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj",
       "projectName": "application",
-      "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj",
+      "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Application\\application.csproj",
       "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-      "outputPath": "C:\\Programacao\\Finança\\Api\\Api.Application\\obj\\",
+      "outputPath": "c:\\Programacao\\Finança\\Api\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10142,14 +10142,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "C:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj"
+            "c:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "c:\\Programacao\\Finança\\Api\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
+            "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
+              "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
             },
-            "C:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj": {
-              "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj"
+            "c:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj": {
+              "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj"
             }
           }
         }

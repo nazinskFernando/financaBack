@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj": {}
+    "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj": {
+    "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
+        "projectUniqueName": "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
+        "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacao\\Finança\\Api\\Api.Data\\obj\\",
+        "outputPath": "c:\\Programacao\\Finança\\Api\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
+              "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
+    "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj",
+        "projectPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacao\\Finança\\Api\\Api.Domain\\obj\\",
+        "outputPath": "c:\\Programacao\\Finança\\Api\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
