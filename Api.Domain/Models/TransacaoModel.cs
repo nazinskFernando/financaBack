@@ -2,15 +2,9 @@ using Api.Domain.Entities;
 using System;
 namespace Api.Domain.Models
 {
-    public class TransacaoModel
+    public class TransacaoModel: BaseModel
     {
-        private Guid _id;
-        public Guid Id
-        {
-            get { return _id; }
-            set { _id = value; }
-        }
-        
+    
         private string _nome;
         public string Nome
         {
@@ -65,29 +59,14 @@ namespace Api.Domain.Models
             get { return _mesReferenciaId; }
             set { _mesReferenciaId = value; }
         }
-        
 
-        private TipoOperacao _tipoOperacao;
-        public TipoOperacao TipoOperacao
+        private Guid _poupancaId;
+        public Guid PoupancaId
         {
-            get { return _tipoOperacao; }
-            set { _tipoOperacao = value; }
+            get { return _poupancaId; }
+            set { _poupancaId = value; }
         }
-
-        private TipoOperacaoSaida _tipoOperacaoSaida;
-        public TipoOperacaoSaida TipoOperacaoSaida
-        {
-            get { return _tipoOperacaoSaida; }
-            set { _tipoOperacaoSaida = value; }
-        }
-
-        private TipoOperacaoEntrada _tipoOperacaoEntrada;
-        public TipoOperacaoEntrada TipoOperacaoEntrada
-        {
-            get { return _tipoOperacaoEntrada; }
-            set { _tipoOperacaoEntrada = value; }
-        }
-        
+            
 
     }
 }

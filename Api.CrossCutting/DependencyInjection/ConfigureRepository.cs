@@ -18,7 +18,11 @@ namespace Api.CrossCutting.DependencyInjection
             serviceCollection.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
 
             serviceCollection.AddScoped<IMesReferenciaRepository, MesReferenciaImplementation>();
-            serviceCollection.AddScoped<ITransacaoRepository, TransacaoImplementation>();
+            serviceCollection.AddScoped<IEntradaRepository, EntradaImplementation>();
+            serviceCollection.AddScoped<IPlanejamentoParceladoRepository, PlanejamentoParceladoImplementation>();
+            serviceCollection.AddScoped<IPlanejamentosRepository, PlanejamentosImplementation>();
+            serviceCollection.AddScoped<IPoupancaRepository, PoupancaImplementation>();
+            serviceCollection.AddScoped<ISaidaRepository, SaidaImplementation>();
 
             serviceCollection.AddDbContext<MyContext>(
                 options => options.UseMySql(conexao)

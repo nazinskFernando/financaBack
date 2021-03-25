@@ -8,6 +8,8 @@ namespace Api.Domain.Entities
         public int Mes { get; set; }
         public int Ano { get; set; }
 
-        public IEnumerable<TransacaoEntity> Transacoes { get; set; }
+        public IEnumerable<EntradaEntity> TransacoesEntrada { get; set; }
+        public IEnumerable<SaidaEntity> TransacoesSaida { get; set; }
+        public IEnumerable<PlanejamentoParceladoEntity> PlanejamentoParcelados { get; set; }
     }
 }

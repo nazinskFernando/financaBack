@@ -14,10 +14,30 @@ namespace Api.CrossCutting.Mappings
               .ReverseMap();
             #endregion 
 
-             #region Transacao
-            CreateMap<TransacaoModel, TransacaoEntity>()
+
+            #region Entrada
+            CreateMap<EntradaModel, EntradaEntity>()
               .ReverseMap();
             #endregion  
+
+            #region Saida
+            CreateMap<SaidaModel, SaidaEntity>()
+              .ReverseMap();
+            #endregion  
+
+            #region Poupanca
+            CreateMap<PoupancaModel, PoupancaEntity>()
+              .ReverseMap();
+            #endregion  
+
+            #region Planejamentos
+            CreateMap<PlanejamentosModel, PlanejamentosEntity>()
+              .ReverseMap();
+            #endregion 
+            #region PlanejamentoParcelado
+            CreateMap<PlanejamentoParceladoModel, PlanejamentoParceladoEntity>()
+              .ReverseMap();
+            #endregion 
         }
     }
 }

@@ -1,28 +1,3 @@
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\CrossCutting.deps.json
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\CrossCutting.runtimeconfig.json
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\CrossCutting.runtimeconfig.dev.json
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\CrossCutting.dll
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\ref\CrossCutting.dll
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\CrossCutting.pdb
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\Data.dll
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\Domain.dll
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\Service.dll
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\Domain.pdb
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\Service.pdb
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\bin\Debug\net5.0\Data.pdb
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.csprojAssemblyReference.cache
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.AssemblyInfoInputs.cache
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.AssemblyInfo.cs
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.csproj.CoreCompileInputs.cache
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.csproj.CopyComplete
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.dll
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\obj\Debug\net5.0\ref\CrossCutting.dll
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.pdb
-C:\Programacao\Teste Ifood\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.genruntimeconfig.cache
-C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.dll
-C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\ref\CrossCutting.dll
-C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.pdb
 C:\Programacao\Finança\Api\Api.CrossCutting\bin\Debug\net5.0\CrossCutting.deps.json
 C:\Programacao\Finança\Api\Api.CrossCutting\bin\Debug\net5.0\CrossCutting.runtimeconfig.json
 C:\Programacao\Finança\Api\Api.CrossCutting\bin\Debug\net5.0\CrossCutting.runtimeconfig.dev.json
@@ -41,4 +16,7 @@ C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.Assem
 C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.AssemblyInfo.cs
 C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.csproj.CoreCompileInputs.cache
 C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.csproj.CopyComplete
+C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.dll
+C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\ref\CrossCutting.dll
+C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.pdb
 C:\Programacao\Finança\Api\Api.CrossCutting\obj\Debug\net5.0\CrossCutting.genruntimeconfig.cache

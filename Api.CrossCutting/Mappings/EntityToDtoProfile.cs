@@ -1,6 +1,10 @@
 using Api.Domain.Dtos;
 using Api.Domain.Dtos.MesReferencia;
-using Api.Domain.Dtos.Transacao;
+using Api.Domain.Dtos.Entrada;
+using Api.Domain.Dtos.Poupanca;
+using Api.Domain.Dtos.Saida;
+using Api.Domain.Dtos.Planejamentos;
+using Api.Domain.Dtos.PlanejamentoParcelado;
 using Api.Domain.Entities;
 using AutoMapper;
 
@@ -16,8 +20,30 @@ namespace Api.CrossCutting.Mappings
             .ReverseMap();
             #endregion
 
-             #region Transacao           
-            CreateMap<TransacaoDto, TransacaoEntity>()
+            #region Entrada           
+            CreateMap<EntradaDto, EntradaEntity>()
+            .ReverseMap();
+            CreateMap<EntradaRetornoDto, EntradaEntity>()
+            .ReverseMap();
+            #endregion
+
+             #region Saida           
+            CreateMap<SaidaDto, SaidaEntity>()
+            .ReverseMap();
+            #endregion
+
+             #region Poupanca           
+            CreateMap<PoupancaDto, PoupancaEntity>()
+            .ReverseMap();
+            #endregion
+
+             #region Planejamentos           
+            CreateMap<PlanejamentosDto, PlanejamentosEntity>()
+            .ReverseMap();
+            #endregion
+
+             #region PlanejamentoParcelado           
+            CreateMap<PlanejamentoParceladoDto, PlanejamentoParceladoEntity>()
             .ReverseMap();
             #endregion
             
