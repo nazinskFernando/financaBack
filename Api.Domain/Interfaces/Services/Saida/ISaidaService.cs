@@ -8,10 +8,10 @@ namespace Api.Domain.Interfaces.Services.Saida
     public interface ISaidaService
     {
         Task<SaidaDto> Get(Guid id);
-         Task<IEnumerable<SaidaDto>> GetByMesReferencia(Guid mesReferenciaId);
+        Task<IEnumerable<SaidaDto>> GetByMesReferencia(Guid mesReferenciaId);
         Task<IEnumerable<SaidaDto>> GetAll();
         Task<SaidaDto> Post(SaidaDto termo);
         Task<SaidaDto> Put(SaidaDto termo);
-        Task<bool> Delete(Guid id);
+        Task<bool> Delete(Guid id, bool deletarAll);
     }
 }

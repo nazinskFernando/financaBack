@@ -43,9 +43,26 @@ namespace Api.Service.Services
             _mesReferenciaService = mesReferenciaService;
         }
 
-        public async Task<bool> Delete(Guid id)
+        public async Task<bool> Delete(Guid id, bool deletarAll)
         {
-            return await _repository.DeleteAsync(id);
+            var obj = await _repository.SelectAsync(id);
+            if (obj.IsFixa.Equals(true))
+            {
+                if (deletarAll)
+                {
+                    await DeleteFixos(obj);
+                }
+                else
+                {
+                    await _repository.DeleteAsync(id);
+                }
+            }
+            else
+            {
+
+                await _repository.DeleteAsync(id);
+            }
+            return true;
         }
 
         public async Task<EntradaDto> Get(Guid id)
@@ -70,11 +87,15 @@ namespace Api.Service.Services
         {
             var model = _mapper.Map<EntradaModel>(objeto);
             var entity = _mapper.Map<EntradaEntity>(model);
-            if(objeto.PoupancaId == null){
+            if (objeto.PoupancaId == null)
+            {
                 entity.PoupancaId = null;
             }
             var result = await _repository.InsertAsync(entity);
-
+            if (result.IsFixa.Equals(true))
+            {
+                await SalvarFixos(result);
+            }
             return _mapper.Map<EntradaDto>(result); ;
         }
 
@@ -82,9 +103,58 @@ namespace Api.Service.Services
         {
             var model = _mapper.Map<EntradaModel>(objeto);
             var entity = _mapper.Map<EntradaEntity>(model);
-
+            if (objeto.PoupancaId == null)
+            {
+                entity.PoupancaId = null;
+            }
             var result = await _repository.UpdateAsync(entity);
             return _mapper.Map<EntradaDto>(result);
         }
+
+        public async Task<bool> SalvarFixos(EntradaEntity objeto)
+        {
+            var mesAtual = await _mesReferenciaService.Get(objeto.MesReferenciaId);
+            var mesesCriacao = await _mesReferenciaService.GetMesesAFrente(mesAtual.Mes, mesAtual.Ano);
+            foreach (var mc in mesesCriacao)
+            {
+                objeto.Id = new Guid();
+                objeto.MesReferenciaId = mc.Id;
+                var result = await _repository.InsertAsync(objeto);
+            }
+
+            return true;
+        }
+
+        public async Task<bool> DeleteFixos(EntradaEntity objeto)
+        {
+            var valores = await _repository.GetNome(objeto.Nome);
+            foreach (var item in valores)
+            {
+                await _repository.DeleteAsync(item.Id);
+
+            }
+            return true;
+        }
+
+        // public async Task<bool> SalvarParcelas(EntradaEntity objeto)
+        // {
+        //     var totalMeses = objeto.Parcelas;
+        //     var countParcelas = 0;
+        //     var mesAtual = await _mesReferenciaService.Get(objeto.MesReferenciaId);
+        //     var mesesCriacao = await _mesReferenciaService.GetMesesAFrente(mesAtual.Mes, mesAtual.Ano);
+        //     foreach (var mc in mesesCriacao)
+        //     {
+        //         if (totalMeses >= countParcelas)
+        //         {
+        //             objeto.Id = new Guid();
+        //             objeto.MesReferenciaId = mc.Id;
+
+        //             var result = await _repository.InsertAsync(objeto);
+        //         }
+
+        //     }
+
+        //     return true;
+        // }
     }
 }

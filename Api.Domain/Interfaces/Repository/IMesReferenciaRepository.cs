@@ -8,5 +8,6 @@ namespace Api.Domain.Repository
     public interface IMesReferenciaRepository : IRepository<MesReferenciaEntity>
     {
         Task<MesReferenciaEntity> fintByMesAno(int mes, int ano);
+        Task<IEnumerable<MesReferenciaEntity>> GetMesesAFrente(int mes, int ano);
     }
 }

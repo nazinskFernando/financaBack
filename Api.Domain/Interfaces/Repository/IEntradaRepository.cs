@@ -8,6 +8,7 @@ namespace Api.Domain.Repository
 {
     public interface IEntradaRepository : IRepository<EntradaEntity>
     {
-         Task<IEnumerable<EntradaEntity>> GetByMesReferencia(Guid mesReferenciaId);
+        Task<IEnumerable<EntradaEntity>> GetByMesReferencia(Guid mesReferenciaId);
+        Task<IEnumerable<EntradaEntity>> GetNome(string nome);
     }
 }

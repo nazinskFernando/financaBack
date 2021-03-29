@@ -25,8 +25,8 @@ namespace Api.Domain.Models
             set { _descricao = value; }
         }
 
-        private int _parcelas;
-        public int Parcelas
+        private string _parcelas;
+        public string Parcelas
         {
             get { return _parcelas; }
             set { _parcelas = value; }
@@ -50,7 +50,7 @@ namespace Api.Domain.Models
             get { return _isFixId; }
             set { _isFixId = value; }
         }
-        
+
 
         private Guid _mesReferenciaId;
         public Guid MesReferenciaId
@@ -64,6 +64,18 @@ namespace Api.Domain.Models
         {
             get { return _poupancaId; }
             set { _poupancaId = value; }
+        }
+        private double _porcentagem;
+        public double Porcentagem
+        {
+            get { return _porcentagem; }
+            set { _porcentagem = value; }
+        }
+        private Guid _entradaId;
+        public Guid EntradaId
+        {
+            get { return _entradaId; }
+            set { _entradaId = value; }
         }
         private TipoOperacaoSaida _tipoOperacaoSaida;
         public TipoOperacaoSaida TipoOperacaoSaida

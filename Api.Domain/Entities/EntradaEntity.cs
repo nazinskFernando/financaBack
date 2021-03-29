@@ -16,13 +16,13 @@ namespace Api.Domain.Entities
         public string Descricao { get; set; }
         public int Parcelas { get; set; }
         public bool IsPago { get; set; }
-        public bool IsFixa { get; set; } 
+        public bool IsFixa { get; set; }
         public Guid? IsFixId { get; set; }
-        public Guid? MesReferenciaId { get; set; }
+        public Guid MesReferenciaId { get; set; }
         public Guid? PoupancaId { get; set; }
 
-        public virtual MesReferenciaEntity MesReferencia { get; set; } 
-        public virtual PoupancaEntity Poupanca { get; set; } 
+        public virtual MesReferenciaEntity MesReferencia { get; set; }
+        public virtual PoupancaEntity Poupanca { get; set; }
         public TipoOperacaoEntrada TipoOperacaoEntrada { get; set; }
 
     }

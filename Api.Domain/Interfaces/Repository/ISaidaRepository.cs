@@ -9,5 +9,6 @@ namespace Api.Domain.Repository
     public interface ISaidaRepository : IRepository<SaidaEntity>
     {
         Task<IEnumerable<SaidaEntity>> GetByMesReferencia(Guid mesReferenciaId);
+        Task<IEnumerable<SaidaEntity>> GetNome(string nome);
     }
 }

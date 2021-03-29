@@ -19,11 +19,22 @@ namespace Api.Data.Implementations
             _dataset = context.Set<EntradaEntity>();
         }
 
-       public async Task<IEnumerable<EntradaEntity>> GetByMesReferencia(Guid mesReferenciaId){
-           IQueryable<EntradaEntity> query = _dataset;
+        public async Task<IEnumerable<EntradaEntity>> GetByMesReferencia(Guid mesReferenciaId)
+        {
+            IQueryable<EntradaEntity> query = _dataset;
 
             query = query.AsNoTracking()
                         .Where(t => t.MesReferenciaId.Equals(mesReferenciaId));
+
+            return await query.ToArrayAsync();
+        }
+
+        public async Task<IEnumerable<EntradaEntity>> GetNome(string nome)
+        {
+            IQueryable<EntradaEntity> query = _dataset;
+
+            query = query.AsNoTracking()
+                        .Where(t => t.Nome.Equals(nome));
 
             return await query.ToArrayAsync();
         }

@@ -56,6 +56,12 @@ namespace Api.Service.Services
             return _mapper.Map<MesReferenciaDto>(entity);
         }
 
+         public async Task<IEnumerable<MesReferenciaDto>> GetMesesAFrente(int mes, int ano)
+        {
+            var listEntity = await _repository.GetMesesAFrente(mes, ano);
+            return _mapper.Map<IEnumerable<MesReferenciaDto>>(listEntity);
+        }
+
         public async Task<IEnumerable<MesReferenciaDto>> GetAll()
         {
             var listEntity = await _repository.SelectAsync();

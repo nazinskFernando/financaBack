@@ -23,5 +23,14 @@ namespace Api.Data.Implementations
            return await _dataset.FirstOrDefaultAsync(mr => mr.Mes.Equals(mes) && mr.Ano.Equals(ano));
        }
 
+       public async Task<IEnumerable<MesReferenciaEntity>> GetMesesAFrente(int mes, int ano){
+           IQueryable<MesReferenciaEntity> query = _dataset;
+
+            query = query.AsNoTracking()
+                        .Where(mr => mr.Mes > mes && mr.Ano >= ano);
+
+            return await query.ToArrayAsync();
+       }
+
     }
 }

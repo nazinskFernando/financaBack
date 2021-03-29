@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+XAbxvM1WO4N+rrELlzepek2RC0gypRWoSb9TifXfHDxJwTydhl2PSabFbJ1ttLWbfn4LSKWaTXrp5O7ZNx4Cw==",
+  "dgSpecHash": "jeQ77u5D3RoeNUGaE5kPF6T3n5IaPL3h4fheeUNK3yAsovHu2Xvw+mj8jRMBpscUbv2zsMmDLkxGNVmTrofWNA==",
   "success": true,
-  "projectFilePath": "c:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj",
+  "projectFilePath": "C:\\Programacao\\Finança\\Api\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fernando\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

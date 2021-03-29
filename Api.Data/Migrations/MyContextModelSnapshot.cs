@@ -38,7 +38,7 @@ namespace Data.Migrations
                     b.Property<bool>("IsPago")
                         .HasColumnType("tinyint(1)");
 
-                    b.Property<Guid?>("MesReferenciaId")
+                    b.Property<Guid>("MesReferenciaId")
                         .HasColumnType("char(36)");
 
                     b.Property<string>("Nome")
@@ -191,6 +191,9 @@ namespace Data.Migrations
                     b.Property<string>("Descricao")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
+                    b.Property<Guid?>("EntradaId")
+                        .HasColumnType("char(36)");
+
                     b.Property<Guid?>("IsFixId")
                         .HasColumnType("char(36)");
 
@@ -200,14 +203,17 @@ namespace Data.Migrations
                     b.Property<bool>("IsPago")
                         .HasColumnType("tinyint(1)");
 
-                    b.Property<Guid?>("MesReferenciaId")
+                    b.Property<Guid>("MesReferenciaId")
                         .HasColumnType("char(36)");
 
                     b.Property<string>("Nome")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
-                    b.Property<int>("Parcelas")
-                        .HasColumnType("int");
+                    b.Property<string>("Parcelas")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<double?>("Porcentagem")
+                        .HasColumnType("double");
 
                     b.Property<Guid?>("PoupancaId")
                         .HasColumnType("char(36)");
@@ -234,7 +240,9 @@ namespace Data.Migrations
                 {
                     b.HasOne("Api.Domain.Entities.MesReferenciaEntity", "MesReferencia")
                         .WithMany("TransacoesEntrada")
-                        .HasForeignKey("MesReferenciaId");
+                        .HasForeignKey("MesReferenciaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("Api.Domain.Entities.PoupancaEntity", "Poupanca")
                         .WithMany("TransacoesEntrada")
@@ -258,7 +266,9 @@ namespace Data.Migrations
                 {
                     b.HasOne("Api.Domain.Entities.MesReferenciaEntity", "MesReferencia")
                         .WithMany("TransacoesSaida")
-                        .HasForeignKey("MesReferenciaId");
+                        .HasForeignKey("MesReferenciaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("Api.Domain.Entities.PoupancaEntity", "Poupanca")
                         .WithMany("TransacoesSaida")

@@ -55,7 +55,7 @@ namespace Api.Application.Controllers
 
         }
 
-         [HttpGet]
+        [HttpGet]
         [Route("mesReferenciaId/{mesReferenciaId}")]
         public async Task<ActionResult> GetByMesReferencia(Guid mesReferenciaId)
         {
@@ -153,8 +153,8 @@ namespace Api.Application.Controllers
         }
 
         // [Authorize("Bearer")]
-        [HttpDelete("{id}")]
-        public async Task<ActionResult> Delete(Guid id)
+        [HttpDelete("{id}/{deletarAll}")]
+        public async Task<ActionResult> Delete(Guid id, bool deletarAll)
         {
             if (!ModelState.IsValid)
             {
@@ -162,7 +162,7 @@ namespace Api.Application.Controllers
             }
             try
             {
-                return Ok(await _service.Delete(id));
+                return Ok(await _service.Delete(id, deletarAll));
             }
             catch (ArgumentException e)
             {
